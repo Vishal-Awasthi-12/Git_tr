@@ -1,2 +1,1 @@
-print("helllo")
-gandu hai 
+print("helllo") 
