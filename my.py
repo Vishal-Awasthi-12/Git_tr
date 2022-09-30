@@ -1,0 +1,2 @@
+rint(my)
+print(my)
